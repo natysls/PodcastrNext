@@ -19,6 +19,12 @@ This project uses lot of stuff as:
 First, run the development server:
 
 ```bash
+npm run server
+# or
+yarn server
+```
+Then:
+```bash
 npm run dev
 # or
 yarn dev
