@@ -1,5 +1,5 @@
 # PodcastrNext
-This is a NodeJS application with React and Next
+This is a NodeJS application with React and Next, and consists of a podcast platform, I got a database to compose the content.
 
 ## What is inside?
 
