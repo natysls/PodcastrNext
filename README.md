@@ -8,7 +8,6 @@ This project uses lot of stuff as:
 - [TypeScript](https://www.typescriptlang.org/)
 - [NextJS](https://nextjs.org/)
 - [Styled Components](https://styled-components.com/)
-- [Prettier](https://prettier.io/)
 
 ## Whats is expected
 ![image](https://user-images.githubusercontent.com/59856222/193954651-66c487a9-962f-465a-8c8d-9a7c2c409b5b.png)
